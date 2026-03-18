@@ -1,0 +1,19 @@
+{
+  "name": "Jane Doe",
+  "bio": "Full-stack developer crafting modern web experiences with React, Next.js, and TypeScript.",
+  "address": "Based in Anywhere, Earth",
+  "heroTitle": "Building fast, modern web experiences.",
+  "heroSubtitle": "Full-stack Developer",
+  "ctaLabel": "View My Work",
+  "ctaLink": "https://github.com",
+  "section1Title": "About",
+  "section1Text": "I help teams ship high-quality products quickly by combining clean architecture, thoughtful UX, and solid engineering practices.",
+  "section2Title": "Selected Projects",
+  "section2Text": "Highlight a few projects here that show your range: SaaS dashboards, marketing sites, internal tools, and more.",
+  "github": "https://github.com",
+  "linkedin": "https://www.linkedin.com",
+  "twitter": "",
+  "website": "",
+  "profileImage": "/profile.jpg"
+}
+
